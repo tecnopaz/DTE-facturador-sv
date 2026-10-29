@@ -1,0 +1,6 @@
+@tailwind base; @tailwind components; @tailwind utilities;
+html,body{background:#0f172a;font-family:system-ui,-apple-system,Segoe UI,Roboto,sans-serif}
+*::-webkit-scrollbar{display:none}
+input,select,textarea{background:#fff!important;color:#000!important;border:1px solid #ccc;border-radius:1rem;padding:.75rem;width:100%}
+input:focus,select:focus{outline:2px solid #059669;border-color:#059669}
+.ticket{font-family:ui-monospace,Menlo,Consolas,monospace}
